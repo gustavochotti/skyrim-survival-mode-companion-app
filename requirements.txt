@@ -1,0 +1,17 @@
+# requirements.txt
+
+# UI
+customtkinter
+
+# PDF processing
+pymupdf
+
+# Embeddings, vector index
+faiss-cpu
+numpy
+
+# Image handling
+Pillow
+
+# Gemini API
+google-generativeai
