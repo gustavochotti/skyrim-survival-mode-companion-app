@@ -115,7 +115,7 @@ Steps:
 2. Go to the `secrets/` folder and open `API_KEY.txt`.  
    - If it doesn’t exist, create it.  
    - Paste your Gemini API key inside (just the key).  
-3. Double-click the program executable (`SkyrimAssistant.exe`).  
+3. Double-click the program executable (`Skyrim SMC.exe`).  
 4. Start using the mage immediately!
 
 | Files |
