@@ -30,7 +30,7 @@ This app uses **Gemini AI** to read Skyrim guides in PDF format and answer your 
 
 ## 🎥 Demo
 
-(ssmc_demo.gif)
+[demo_gif](ssmc_demo.gif)
 
 ---
 
