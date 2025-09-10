@@ -166,5 +166,5 @@ This project is for personal/educational use.
 ---
 
 ## 🎨 Credits and Acknowledgements 
-The interactive map used in this project is based on the incredible work available in Reddit. You can find the original material [here](https://www.reddit.com/r/skyrim/comments/bzq68y/i_made_a_map_of_skyrim_enjoy/?tl=pt-br&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).  
-Skyrim and all related content are © Bethesda Softworks.
+The interactive map used in this project is based on the incredible work available in Reddit. You can find the original material **[here](https://www.reddit.com/r/skyrim/comments/bzq68y/i_made_a_map_of_skyrim_enjoy/?tl=pt-br&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).**  
+Skyrim and all related content are © **Bethesda Softworks**.
