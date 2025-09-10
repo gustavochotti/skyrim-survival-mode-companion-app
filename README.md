@@ -118,9 +118,9 @@ Steps:
 3. Double-click the program executable (`SkyrimAssistant.exe`).  
 4. Start using the mage immediately!
 
-| Tela Principal | Tela de Cadastro/Edição |
+| Files |
 | :---: |
-| ![Files](images/interface_cadastro_acompanhamento.png)
+| ![Files](files.png) |
 
 ---
 
