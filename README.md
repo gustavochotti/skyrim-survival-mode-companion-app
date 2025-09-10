@@ -163,4 +163,5 @@ Steps:
 ## 🧾 License
 
 This project is for personal/educational use.  
+* The interactive map used in this project is based on the incredible work made available by **[Name of the Site or Author]**. You can find the original material [here](https://www.example.com/link-to-the-map).
 Skyrim and all related content are © Bethesda Softworks.
