@@ -124,6 +124,12 @@ Steps:
 
 ---
 
+## 🎥 How To Install and Setup App
+
+![Install .exe Gif](install_exe.gif)
+
+---
+
 ## 🖥 Usage
 
 - **Ask the Mage**: type a question in the box and press Enter or "Ask the Mage".  
