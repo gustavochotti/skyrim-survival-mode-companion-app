@@ -83,8 +83,8 @@ SkyrimAssistant/
 3. **Set up your Gemini API key**  
    - Create a free Gemini API key from:  
      👉 [Google AI Studio](https://aistudio.google.com/app/apikey)
-   - Create a folder called `secrets/` inside the project (if it does not exist).
-   - Inside `secrets/`, create a file named `API_KEY.txt`
+   - Open the app folder and search for `secrets/` inside the project.
+   - Inside `secrets/`, search for a file named `API_KEY.txt`
    - Paste your API key inside this file (just the key, nothing else).
 
    Example:
