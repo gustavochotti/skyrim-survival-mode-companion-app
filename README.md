@@ -107,7 +107,7 @@ SkyrimAssistant/
 For non-technical users, you don’t need Python or installations.  
 Simply download the executable, place your **Gemini API key** in the correct path, and run the program.
 
-👉 **[Download the latest release here](PUT-YOUR-LINK-HERE)**
+👉 **[Download the latest release here](https://drive.google.com/file/d/1TG3t8nQDHJTXJ6Or_xxV28GRrBfuezAo/view?usp=sharing)**
 
 Steps:
 
